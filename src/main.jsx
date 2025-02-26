@@ -18,6 +18,8 @@ function Main() {
             <Route path="/contact" element={<Contact />} />
             <Route path="/other" element={<Other />} />
             <Route path="/mental-wellness" element={<MentalWellness />} />
+            <Route path="/mental-wellness" element={<MentalWellness />} />
+
             <Route path="*" element={<NotFound />} /> {/* 404 Route */}
           </Routes>
         </div>

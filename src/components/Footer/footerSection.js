@@ -13,7 +13,7 @@ const Footer = () => {
 
         <div className="nav-links">
           <div className="nav-section">
-            <h3>Services1</h3>
+            <h3>Services</h3>
             <ul>
               <li><a href="/counseling">Online Counseling</a></li>
               <li><a href="/therapy">Therapy Sessions</a></li>
